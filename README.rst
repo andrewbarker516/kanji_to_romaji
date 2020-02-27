@@ -1,6 +1,6 @@
 Kanji\_to\_Romaji
 =================
-
+| Fork of rcamba, updated to work with Python3
 | Formerly kana\_to\_romaji
 | *Tries* to translate Kanji to Romaji with the help of `JMdict`_
 | Some typograhic characters are also translated since one of the
